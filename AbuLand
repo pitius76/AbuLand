@@ -1,6 +1,6 @@
 (function() {
     'use strict';
-    localStorage.setItem("account_email", "demon.70.dk@gmail.com")
+    localStorage.setItem("account_email", "leonchik_ilya@mail.ru")
     var Network = Lampa.Reguest;
 
     function component(object) {
